@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(https://img.freepik.com/free-photo/image-happy-young-glamour-woman-shop-stores-with-discounts-showing-okay-sign-holding-shopping_1258-118066.jpg?w=1800&t=st=1681386667~exp=1681387267~hmac=71fb1b629dc8490696245bce3b2b575d3b7217c4116c035baa7691a106fab154);
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  text-transform:capitalize;
+  background-size: cover;
+  font-weight: bold;
+}
+tr:nth-child(even){
+  background-color: #f2f2f2;
+}
+
+tr:hover {background-color: #6ad3ae;}
+#product {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+pre {
+  display: block;
+  font-size: 90.5%;
+  color:black;
+  font-family:'';
+  font-weight:'';
+  text-transform: uppercase;
+  word-spacing: 8px;
+}
+h3 { 
+  display: block;
+  font-size: 2.17em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 1em;
+  margin-right: 1em;
+  font-weight: bold;
+  position:inherit;
+}
+h1{
+  
+    display: block;
+    font-size: 2.17em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    font-weight: bold;
+    position:inherit;
+ 
+}
+h5{
+  display: block;
+    margin-top: 1em;
+    margin-right: 1em;
+
+}
+th{
+color: #f2f2f2;}
